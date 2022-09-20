@@ -29,3 +29,10 @@
 > 资料仅供参考，请自己判断其适用性。
 
 其他部分的版权归属于其各自的作者。
+
+## 中国矿业大学相关链接
+[中国矿业大学官网](http://www.cumt.edu.cn/main.htm)  
+[中国矿业大学简介](http://www.cumt.edu.cn/19834/list.htm)  
+[中国矿业大学本科招生网](http://zs.cumt.edu.cn/)  
+[中国矿业大学研究生招生网](http://yz.cumt.edu.cn/)  
+[中国矿业大学徐海学院官网](http://xhxy.cumt.edu.cn/)
