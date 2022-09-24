@@ -36,3 +36,6 @@
 [中国矿业大学本科招生网](http://zs.cumt.edu.cn/)  
 [中国矿业大学研究生招生网](http://yz.cumt.edu.cn/)  
 [中国矿业大学徐海学院官网](http://xhxy.cumt.edu.cn/)
+
+## 感谢贡献者
+•[Cherub1Zhuang](https://github.com/Cherub1Zhuang) •[GeekPoplar](https://github.com/GeekPoplar)
